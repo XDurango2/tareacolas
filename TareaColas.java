@@ -7,7 +7,7 @@ import java.util.Random;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class TareaColas {
     cola<cliente> pedidos;

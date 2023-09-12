@@ -6,7 +6,7 @@ package com.uabc.labs.tareacolas;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class cliente {
     private String nombre;
